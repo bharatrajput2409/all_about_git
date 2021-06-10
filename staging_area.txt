@@ -1,0 +1,10 @@
+area where we store files or changes for which we have to take screenShoot.
+stagin area === index
+everythings we have in stagin area will be commited while commiting
+area which keeps difference b/w working folder and working git repo.
+even after making commit, stagin area does't become empty. it keeps info of previous commits
+
+file is blob and directory is tree in git
+
+
+working directory ---->>> staging area ---->>> git repo
